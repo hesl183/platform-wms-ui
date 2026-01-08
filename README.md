@@ -1,5 +1,5 @@
 # Platform
-## 平台简介
+## 平台简介(加群获取源码)
   本智能仓储管理系统（Warehouse Management System, WMS）是一种针对仓库管理流程进行优化和自动化的软件解决方案。
   适配多端：PC端、移动端、APP(安卓)。基于RuoYi-Vue-Plus框架打造多租户(sass)管理平台。
 
